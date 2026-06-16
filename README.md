@@ -1,5 +1,5 @@
 # Latex-to-docx-converter
-[en] | Latex to docx converter for LLM outputs. 
+[en] | Latex to docx converter for LLM outputs.[📥 Download it.]([https://github.com](https://github.com/Alfarook-2002/Latex-to-docx-converter/releases/download/V1.0/LaTeX.to.docx.converter.exe))
 
 
 when the LLM turn mathematical equation into beautiful "math" font with LaTeX we can not copy the text without the ugly unformatted showing up, even when we press "export to docs" it still takes the chat text raw.
